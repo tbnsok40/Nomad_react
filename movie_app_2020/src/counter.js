@@ -15,13 +15,6 @@ class Counter extends Component {
         })
     }
 
-    // handleIncrease = () => {
-    //     this.setState({
-    //         temp: this.state.number,
-    //         number: this.state.number + 1
-    //     });
-    // }
-
     handleDecrease = () => {
         this.setState({
             temp: this.state.number,
