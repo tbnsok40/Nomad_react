@@ -207,4 +207,3 @@ class Counter extends Component {
     )
   }
 }
-// toss 송금기 같은거 만들어보쟈
